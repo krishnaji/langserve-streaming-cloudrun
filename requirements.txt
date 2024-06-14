@@ -1,0 +1,7 @@
+langchain
+langserve
+fastapi
+uvicorn
+langchain-google-vertexai  
+tiktoken
+sse_starlette

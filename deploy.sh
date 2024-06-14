@@ -1,0 +1,1 @@
+gcloud run deploy streaming --project genai-380800  --source . --port 8080 --allow-unauthenticated --region us-central1 --min-instances 1
